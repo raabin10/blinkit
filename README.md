@@ -1,4 +1,4 @@
-# blinkit
+# Blinkit
 frontend-project-2
 blinkit-clone
 
@@ -13,12 +13,15 @@ Project Preview
 
 
 
-Technologies Used
+# Technologies Used
+
 HTML
 CSS
 Bootstrap
 font awesome 
-Features
+
+
+# Features
 
 *responsive design, which changes to fit different screen sizes and gadgets.
 
