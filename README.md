@@ -28,7 +28,8 @@ font awesome
 
 *utilizes semantic HTML elements for improved SEO and accessibility.
 
-Contact
+# Contact
+
 If you have any questions or want to connect, you can reach me at - raabinsinghasokkumar@gmail.com
 
 Thanks & Regards,
