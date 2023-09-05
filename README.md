@@ -12,7 +12,6 @@ Project Preview
 ![image](https://github.com/raabin10/blinkit/assets/112077212/93793652-b850-46ea-bb99-400ddb5ed2bf)
 
 
-
 # Technologies Used
 
 HTML
