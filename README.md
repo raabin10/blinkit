@@ -1,5 +1,5 @@
 # Blinkit
-frontend-project-2
+https://raabin10.github.io/blinkit/
 blinkit-clone
 
 This project is a HTML and CSS-based responsive clone of a blinkit online application that seeks to replicate the layout and style of the blinkit Shop for groceries website. 
